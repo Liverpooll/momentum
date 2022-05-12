@@ -68,7 +68,6 @@ function getTodo() {
 function init() {
   getTodo();
   todo_form.addEventListener('submit', submit_function);
-
 }
 
 init();

@@ -64,4 +64,3 @@ function init() {
 }
 init();
 
-// 이듬해 질녘 꽃 피는봄
