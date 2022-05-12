@@ -1,3 +1,14 @@
 testfdsfsd
 
+<<<<<<< HEAD
 mic test
+=======
+mic test
+
+one two microphone check
+
+건반처럼 생긴 도로위
+수많은 동그라미들
+
+모두다~
+>>>>>>> 9d4272027b99a3bcb1dee7f1c95385f08b3e43b4
